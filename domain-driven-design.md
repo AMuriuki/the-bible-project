@@ -1,4 +1,7 @@
 # Domain-Driven Design
+# References
+* [DDD_Reference_2015-03.pdf](/resources/DDD_Reference_2015-03.pdf)
+* [theanatomyofdomain-drivendesign.pdf](/resources/theanatomyofdomain-drivendesign.pdf)
 ## Intro
 The premise of Domain-Drive Design is:<br>
 * Placing the project's primary focus on the core domain and domain logic
